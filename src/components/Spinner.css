@@ -1,0 +1,6 @@
+.spinner img{   
+    
+    height: 12vh;
+    border-radius: 41px;}
+.Spinner{    display: flex;
+    justify-content: space-evenly;}
